@@ -6,12 +6,3 @@ print 'Yay! Printing.'
 print "I'd much rather you 'not'."
 print 'I "said" do not touch this.'
 print 'he said "bla" '
-
-
-
-joshua = 1
-
-if joshua == 1:
-    print "yay"
-else:
-    print "nay"
